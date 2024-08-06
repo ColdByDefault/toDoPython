@@ -22,8 +22,8 @@ A simple command-line tool for managing a to-do list using Python.
     ```bash
     python -m venv venv
     ```
-###### venv
-
+###### venv:
+cmd:
     ```bash
     python -m pip install --user virtualenv
     ```
