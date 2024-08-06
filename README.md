@@ -12,7 +12,7 @@ A simple command-line tool for managing a to-do list using Python.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/cli-todo-list.git
+   git clone https://github.com/ColdByDefault/toDoPython.git
    ```
 2. Navigate into the project directory:   
     ```bash
