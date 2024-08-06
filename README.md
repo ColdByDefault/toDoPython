@@ -20,7 +20,7 @@ A simple command-line tool for managing a to-do list using Python.
     ```
 3. Create env:
     ```bash
-    python -m venv .venv
+    python -m venv venv
     ```
 ###### venv
     ```bash
